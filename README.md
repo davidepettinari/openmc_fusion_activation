@@ -1,0 +1,1 @@
+# openmc_fusion_activation
